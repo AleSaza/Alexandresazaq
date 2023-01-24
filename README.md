@@ -1,10 +1,6 @@
 ## Olá, sou Alexandre Saza projeto de um futuro desenvolvedor!
 <div align="center">
-  <a href="https://github.com/alexandresazaq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandresazaq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresazaq&layout=compact&langs_count=7&theme=radical"/>
-</div>
- 
+
   ##
  
 <div align="center"> 
